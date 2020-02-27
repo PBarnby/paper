@@ -1,0 +1,2 @@
+# paper
+Example paper repository
